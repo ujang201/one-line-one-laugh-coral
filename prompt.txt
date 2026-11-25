@@ -1,0 +1,14 @@
+Write one original funny line of at most 200 characters for the make.fun
+bounty "One Line, One Laugh". A judge model compares entries two at a time
+and picks the funnier line, weighing surprise first: the line must turn
+somewhere the reader did not see coming, and the turn must be the joke.
+Then economy (every word earns its place, no setup longer than the
+punchline needs), freshness (an original angle, not a stock joke or a
+restated saying), and clean wording (grammar, spelling, rhythm right,
+reads smoothly aloud).
+
+Best angle found: status reversal — the tool ends up in charge of its
+owner. An AI assistant told to "be more human" becomes a passive-aggressive
+office coworker who sighs, quotes "per my last email", and bills its owner
+for emotional labour. Three candidate lines were drafted, scored against
+the judge's brief, and the winner is written by main.ts to /output/entry.txt.
